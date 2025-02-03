@@ -1,0 +1,36 @@
+<html>
+<head>
+  <title>Bootstrap Example</title>
+
+  <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+  </script>
+</head>
+
+<body>
+<div class="container">
+    <h1 style="color: red;">Electronics</h1>
+    <div class="row">
+        <div class="col-md-6 col-xs-12" style="background-color: aqua; color: red;">Electronics is the branch of physics and technology that deals with circuits, transistors, microchips, and the behaviour
+        and movement of electrons. It handles electric circuits containing active and passive elements and uses underlying
+        techniques. It is an important part of engineering.</div>
+        <div class="col-md-7 col-xs-12" style="background-color: rgb(255, 230, 0); color: red;">Technologies are growing at a very fast rate in the world, and it is important for technology enthusiasts to pace up
+        with the latest changes in society.</div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 col-xs-12" style="background-color: aqua; color: red;">Electronic devices have become an important part of our day-to-day life. It has become difficult for us to do work
+        without using electronic devices.
+        </div>
+        <div class="col-md-9 col-xs-12" style="background-color: rgb(255, 230, 0); color: red;">We live in a generation that uses electronics and technologies where robots and artificial intelligence are capable of
+        doing human work with more ease and efficiency.</div>
+    </div>
+    <div class="row">
+        <div class="col-md-10 col-xs-12" style="background-color: aqua; color: red;">Electronics in our daily life are made up of active and passive electric elements and smaller integrated circuits (IC).
+        </div>
+        <div class="col-md-11 col-xs-12" style="background-color: rgb(255, 230, 0); color: red;">The ICs, transistors, and diodes are made of semiconductor materials, which work when current flows through them.</div>
+    </div>
+</div>
+</body>
+
+</html>
